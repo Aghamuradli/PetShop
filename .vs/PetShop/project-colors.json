@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ebe51d02-b74c-4461-8163-b9f8361b8dbd": {
+      "ProjectGuid": "ebe51d02-b74c-4461-8163-b9f8361b8dbd",
+      "DisplayName": "PetShop",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

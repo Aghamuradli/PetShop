@@ -1,0 +1,16 @@
+C:\Users\Agamuradov\OneDrive\Masaüstü\PetShop\bin\Debug\net5.0\PetShop.exe
+C:\Users\Agamuradov\OneDrive\Masaüstü\PetShop\bin\Debug\net5.0\PetShop.deps.json
+C:\Users\Agamuradov\OneDrive\Masaüstü\PetShop\bin\Debug\net5.0\PetShop.runtimeconfig.json
+C:\Users\Agamuradov\OneDrive\Masaüstü\PetShop\bin\Debug\net5.0\PetShop.runtimeconfig.dev.json
+C:\Users\Agamuradov\OneDrive\Masaüstü\PetShop\bin\Debug\net5.0\PetShop.dll
+C:\Users\Agamuradov\OneDrive\Masaüstü\PetShop\bin\Debug\net5.0\ref\PetShop.dll
+C:\Users\Agamuradov\OneDrive\Masaüstü\PetShop\bin\Debug\net5.0\PetShop.pdb
+C:\Users\Agamuradov\OneDrive\Masaüstü\PetShop\obj\Debug\net5.0\PetShop.csproj.AssemblyReference.cache
+C:\Users\Agamuradov\OneDrive\Masaüstü\PetShop\obj\Debug\net5.0\PetShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agamuradov\OneDrive\Masaüstü\PetShop\obj\Debug\net5.0\PetShop.AssemblyInfoInputs.cache
+C:\Users\Agamuradov\OneDrive\Masaüstü\PetShop\obj\Debug\net5.0\PetShop.AssemblyInfo.cs
+C:\Users\Agamuradov\OneDrive\Masaüstü\PetShop\obj\Debug\net5.0\PetShop.csproj.CoreCompileInputs.cache
+C:\Users\Agamuradov\OneDrive\Masaüstü\PetShop\obj\Debug\net5.0\PetShop.dll
+C:\Users\Agamuradov\OneDrive\Masaüstü\PetShop\obj\Debug\net5.0\ref\PetShop.dll
+C:\Users\Agamuradov\OneDrive\Masaüstü\PetShop\obj\Debug\net5.0\PetShop.pdb
+C:\Users\Agamuradov\OneDrive\Masaüstü\PetShop\obj\Debug\net5.0\PetShop.genruntimeconfig.cache
